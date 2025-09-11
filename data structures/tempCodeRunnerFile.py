@@ -1,0 +1,1 @@
+Extracted_list=Original_list[:6]
